@@ -23,6 +23,6 @@ As always, your corrections and suggestions are welcome, so email your correctio
 
 And If you wish to share thoughts on any of these topics with him, send him an email as well.
 
-{% for post in site.categories[sample post] %}
+{% for post in site.tag[sample post] %}
     <li>{{ post.title }}</li>
 {% endfor %}
