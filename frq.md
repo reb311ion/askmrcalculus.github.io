@@ -1,17 +1,11 @@
 ---
-layout: post-index
+layout: page
 permalink: /frq/
 title: All FRQ Solutions
-tagline: AP Calculus FRQ Solutions
+tagline: A List of FRQ Solutions
 tags: [blog]
 ---
 
-<div class="related-articles">
-<h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/frq/">View all posts</a>)</small></h4>
-  <ul>
-  {% for post in site.related_posts limit:3 %}
-    <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  {% endfor %}
-  </ul>
-  <hr />
-</div><!-- /.related-articles -->
+{% for post in site.categories[frq] %}
+    <li>{{ post.title }}</li>
+{% endfor %}
