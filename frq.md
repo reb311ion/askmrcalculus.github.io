@@ -7,6 +7,6 @@ category: [frq]
 tags: [blog]
 ---
 
-{% for post in site.categories[category_name] %}
+{% for post in site.categories[frq] %}
     <li>{{ post.title }}</li>
 {% endfor %}
