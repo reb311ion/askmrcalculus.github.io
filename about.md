@@ -22,7 +22,3 @@ Mr. Calculus has the screen name `AskMrCalculus` or `MisterCalculus` on AOL Inst
 As always, your corrections and suggestions are welcome, so email your corrections or suggestions to <askmrcalculus@gmail.com>
 
 And If you wish to share thoughts on any of these topics with him, send him an email as well.
-
-{% for post in site.tag[sample post] %}
-    <li>{{ post.title }}</li>
-{% endfor %}
