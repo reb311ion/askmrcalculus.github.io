@@ -1,5 +1,5 @@
 title:            Ask Mr. Calculus
-description:      AP Calculus AB/BC Solutions and Tips
+description:      15 years of AP Calculus AB/BC Solutions and Tips
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://askmrcalculus.github.io
 disqus_shortname:
@@ -7,7 +7,7 @@ disqus_shortname:
 # Owner/author information
 owner:
   name:           Mr. Calculus
-  avatar:         bio-photo.jpg
+  avatar:         bio-photo.png
   bio:            "A mysterious teacher from Diamond Bar High School."
   email:          askmrcalculus@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -55,6 +55,7 @@ markdown:    kramdown
 permalink:   /:categories/:title/
 
 kramdown:
+  input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
