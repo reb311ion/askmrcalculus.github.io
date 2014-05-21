@@ -8,6 +8,4 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-Here are the full solutions for the 2014 AP Calculus Free Response Questions. These comprehensive solutions were written through the hard work of Mr. Calculus himself.
-
-The AP Calculus questions themselves are copyrighted by Collegeboard, and are not reproduced. However, you can easily view them from the Collegeboard website for AP Calculus.
+lulz
