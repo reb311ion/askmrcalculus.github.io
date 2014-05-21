@@ -2,8 +2,8 @@
 layout: post
 title: "2014 AP Calculus FRQ Solutions"
 modified: 2014-05-21 08:37:12 -0700
-category: [FRQ]
-tags: [FRQ]
+category: 
+tags: 
 image:
   feature: 
   credit: 
