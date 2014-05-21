@@ -39,8 +39,8 @@ links:
     url: /about/
   - title: All Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
+  - title: External Links
+    url: /external-links/
   - title: Original Site
     url: http://home.roadrunner.com/~askmrcalculus/
     external: true
