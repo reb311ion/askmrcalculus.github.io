@@ -12,7 +12,7 @@ comments:
 share: 
 ---
 
-These comprehensive solutions were written through the hard work of Mr. Calculus himself.
+Here are the full solutions for the 2014 AP Calculus Free Response Questions. These comprehensive solutions were written through the hard work of Mr. Calculus himself.
 
 ---
 
