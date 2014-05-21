@@ -12,6 +12,10 @@ comments:
 share: 
 ---
 
+These comprehensive solutions were written through the hard work of Mr. Calculus himself.
+
+The AP Calculus questions themselves are copyrighted by Collegeboard, and are not reproduced. However, you can easily view them from the [Collegeboard website for AP Calculus.](https://apstudent.collegeboard.org/apcourse/ap-calculus-ab/exam-practice)
+
 ## 2014 AP Calculus AB FRQ Solutions
 
 * [AB 1](/frq/2014/AP2014_AB1.pdf)
@@ -20,6 +24,10 @@ share:
 * [AB 4](/frq/2014/AP2014_AB4.pdf)
 * [AB 5](/frq/2014/AP2014_AB5.pdf)
 * [AB 6](/frq/2014/AP2014_AB6.pdf)
+
+---
+
+* []()
 
 ## 2014 AP Calculus AB FRQ Solutions
 
