@@ -4,10 +4,6 @@ permalink: /external-links/
 title: External Links
 description: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
 tags: 
-image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
 ---
 
 <section id="table-of-contents" class="toc">
