@@ -1,4 +1,4 @@
-title:            Ask Mr. Calculus
+title:            REB311ION
 description:      15 years of AP Calculus AB/BC Solutions and Tips
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://askmrcalculus.github.io
@@ -6,14 +6,14 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Mr. Calculus
+  name:           REB311ION
   avatar:         bio-photo.png
-  bio:            "A mysterious teacher from Diamond Bar High School."
-  email:          askmrcalculus@gmail.com
+  bio:            "Success is the best revenge"
+  email:          sec.magdymoustafa@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        MrCalculus
-  facebook:       MrCalculus
-  github:         askmrcalculus
+  twitter:        reb311ion
+  facebook:       reb311ion
+  github:         reb311ion
   stackoverflow:
   linkedin:
   instagram:
@@ -23,7 +23,6 @@ owner:
   foursquare:
   steam:
   dribbble:
-  # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
 # Analytics and webmaster tools stuff goes here
@@ -37,15 +36,10 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: All Posts
+  - title: Posts
     url: /posts/
-  - title: Helpful Tips
-    url: /tips/
-  - title: External Links
-    url: /external-links/
-  - title: Original Site
-    url: http://home.roadrunner.com/~askmrcalculus/
-    external: true
+  - title: Axe
+    url: /axe/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
