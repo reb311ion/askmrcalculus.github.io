@@ -1,24 +1,18 @@
 ---
 layout: page
 permalink: /about/
-title: About Ask Mr. Calculus
+title: About me
 tagline: 15 years of AP Calculus AB/BC Solutions and Tips
 tags: [about, askmrcalculus]
 modified: 5-20-2014
 comments: true
 image:
   feature: texture-feature-02.gif
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
 ---
 
-For over 15 years, Mr. Calculus has made AP Calculus AB/BC Free Response Solutions, solved example problems, and presented tips for Calculus students and teachers on this website.
-
-Mr. Calculus teaches at Diamond Bar High School in Diamond Bar.  Mr. Calculus taught at Walnut High School in Walnut and La Puente High School in La Puente all in California.  He received his BA and MA in mathematics at California State University at Fullerton. Mr. Calculus went to high school at Mayfair High School in Lakewood, California. Besides teaching and mathematics, he enjoys the outdoors, travel, music, going to concerts, Bruce Springsteen, and surfing the net. 
-
-
-Mr. Calculus has the screen name `AskMrCalculus` or `MisterCalculus` on AOL Instant Messenger.  `AskMrCalculus` or `MrCalculus` on Yahoo Messenger.  On Twitter he is <http://twitter.com/MrCalculus> and on Facebook he is <http://facebook.com/MrCalculus>.  Feel to visit the sites or to contact him if he is online.
-
-As always, your corrections and suggestions are welcome, so email your corrections or suggestions to <askmrcalculus@gmail.com>
-
-And If you wish to share thoughts on any of these topics with him, send him an email as well.
+Who am I? My name is Magdy Moustafa. Nearly everything that is cybersecurity-related has 
+my interest, especially for malware and malware analysis. Currently, 
+I work for Fixed Solutions as a cybersecurity R&D Engineer. Besides doing research, I like 
+to write blog posts to inform others about the best practices and newest trends in the security world.
+My blog posts mostly focus on the methods to analyze binaries with the use of free and open-source software, 
+together with step-by-step explanations of both the technical side and the thought process of the analyst.
