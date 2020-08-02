@@ -7,7 +7,7 @@ tags: [about, askmrcalculus]
 modified: 5-20-2014
 comments: true
 image:
-  feature: texture-feature-02.jpg
+  feature: texture-feature-02.gif
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
